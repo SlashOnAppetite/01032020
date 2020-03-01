@@ -1,0 +1,685 @@
+#EXTM3U
+#EXTINF:0 group-title="Spor"tvg-logo="http://logo.ddnb.tn/logochanel/1363.png",TRT Sport
+http://skdn.redi-vo.com/iptv/ch1363?code=138137164006399&key=44118
+#EXTINF:0 group-title="Spor"tvg-logo="http://logo.ddnb.tn/logochanel/2366.png",Sport Tv TR
+http://skdn.redi-vo.com/iptv/ch2366?code=138137164006399&key=29705
+#EXTINF:0 group-title="Spor"tvg-logo="http://logo.ddnb.tn/logochanel/1353.png",BeinSport 1 TR
+http://skdn.redi-vo.com/iptv/ch1353?code=138137164006399&key=31156
+#EXTINF:0 group-title="Spor"tvg-logo="http://logo.ddnb.tn/logochanel/2355.png",BeinSport 2 TR
+http://skdn.redi-vo.com/iptv/ch2355?code=138137164006399&key=15735
+#EXTINF:0 group-title="Spor"tvg-logo="http://logo.ddnb.tn/logochanel/2356.png",BeinSport 3 TR
+http://skdn.redi-vo.com/iptv/ch2356?code=138137164006399&key=44129
+#EXTINF:0 group-title="Spor"tvg-logo="http://logo.ddnb.tn/logochanel/2360.png",BeinSport 4 TR
+http://skdn.redi-vo.com/iptv/ch2360?code=138137164006399&key=19535
+#EXTINF:0 group-title="Spor"tvg-logo="http://logo.ddnb.tn/logochanel/2358.png",BeinSport Max 1
+http://skdn.redi-vo.com/iptv/ch2358?code=138137164006399&key=41059
+#EXTINF:0 group-title="Spor"tvg-logo="http://logo.ddnb.tn/logochanel/2359.png",BeinSport Max 2
+http://skdn.redi-vo.com/iptv/ch2359?code=138137164006399&key=29388
+#EXTINF:0 group-title="Spor"tvg-logo="http://logo.ddnb.tn/logochanel/2361.png",Tivibu Sport 1
+http://skdn.redi-vo.com/iptv/ch2361?code=138137164006399&key=18337
+#EXTINF:0 group-title="Spor"tvg-logo="http://logo.ddnb.tn/logochanel/2362.png",Tivibu Sport 2
+http://skdn.redi-vo.com/iptv/ch2362?code=138137164006399&key=10226
+#EXTINF:0 group-title="Spor"tvg-logo="http://logo.ddnb.tn/logochanel/1356.png",Tivibu Sport 3
+http://skdn.redi-vo.com/iptv/ch1356?code=138137164006399&key=18724
+#EXTINF:0 group-title="Spor"tvg-logo="http://logo.ddnb.tn/logochanel/1355.png",Smart Sport 1
+http://skdn.redi-vo.com/iptv/ch1355?code=138137164006399&key=20046
+#EXTINF:0 group-title="TürkiyeKanalları",TRT 4K FHD TR
+http://vip1080.us:8000/Huseyin/asdfghj/50857
+#EXTINF:0 group-title="TürkiyeKanalları",TRT1 FHD TR
+http://vip1080.us:8000/Huseyin/asdfghj/7134
+#EXTINF:0 group-title="TürkiyeKanalları",TRT1 HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/17424
+#EXTINF:0 group-title="TürkiyeKanalları",TRT1 SD TR
+http://vip1080.us:8000/Huseyin/asdfghj/8859
+#EXTINF:0 group-title="TürkiyeKanalları",ATV FHD TR
+http://vip1080.us:8000/Huseyin/asdfghj/7170
+#EXTINF:0 group-title="TürkiyeKanalları",ATV HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/17426
+#EXTINF:0 group-title="TürkiyeKanalları",ATV SD TR
+http://vip1080.us:8000/Huseyin/asdfghj/8860
+#EXTINF:0 group-title="TürkiyeKanalları",SHOW TV FHD TR
+http://vip1080.us:8000/Huseyin/asdfghj/7139
+#EXTINF:0 group-title="TürkiyeKanalları",SHOW TV HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/17427
+#EXTINF:0 group-title="TürkiyeKanalları",SHOW TV SD TR
+http://vip1080.us:8000/Huseyin/asdfghj/8867
+#EXTINF:0 group-title="TürkiyeKanalları",STAR TV FHD TR
+http://vip1080.us:8000/Huseyin/asdfghj/7138
+#EXTINF:0 group-title="TürkiyeKanalları",STAR TV HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/17421
+#EXTINF:0 group-title="TürkiyeKanalları",STAR TV SD TR
+http://vip1080.us:8000/Huseyin/asdfghj/8861
+#EXTINF:0 group-title="TürkiyeKanalları",KANAL D FHD TR
+http://vip1080.us:8000/Huseyin/asdfghj/7151
+#EXTINF:0 group-title="TürkiyeKanalları",KANAL D HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/17425
+#EXTINF:0 group-title="TürkiyeKanalları",KANAL D SD TR
+http://vip1080.us:8000/Huseyin/asdfghj/8862
+#EXTINF:0 group-title="TürkiyeKanalları",FOX FHD TR
+http://vip1080.us:8000/Huseyin/asdfghj/7157
+#EXTINF:0 group-title="TürkiyeKanalları",FOX HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/17428
+#EXTINF:0 group-title="TürkiyeKanalları",FOX SD TR
+http://vip1080.us:8000/Huseyin/asdfghj/8863
+#EXTINF:0 group-title="TürkiyeKanalları",TV8 FHD TR
+http://vip1080.us:8000/Huseyin/asdfghj/7133
+#EXTINF:0 group-title="TürkiyeKanalları",TV8 HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/17429
+#EXTINF:0 group-title="TürkiyeKanalları",TV8 SD TR
+http://vip1080.us:8000/Huseyin/asdfghj/8864
+#EXTINF:0 group-title="TürkiyeKanalları",KANAL7 FHD TR
+http://vip1080.us:8000/Huseyin/asdfghj/7153
+#EXTINF:0 group-title="TürkiyeKanalları",KANAL7 HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/17430
+#EXTINF:0 group-title="TürkiyeKanalları",KANAL7 SD TR
+http://vip1080.us:8000/Huseyin/asdfghj/8866
+#EXTINF:0 group-title="TürkiyeKanalları",BEYAZ TV FHD TR
+http://vip1080.us:8000/Huseyin/asdfghj/7169
+#EXTINF:0 group-title="TürkiyeKanalları",,BEYAZ TV HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/17431
+#EXTINF:0 group-title="TürkiyeKanalları",BEYAZ TV SD TR
+http://vip1080.us:8000/Huseyin/asdfghj/8865
+#EXTINF:0 group-title="TürkiyeKanalları",TV 85 HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/1740
+#EXTINF:0 group-title="TürkiyeKanalları",TEVE 2 HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/375
+#EXTINF:0 group-title="TürkiyeKanalları",TEVE 2 FHD TR
+http://vip1080.us:8000/Huseyin/asdfghj/34678
+#EXTINF:0 group-title="TürkiyeKanalları",A2 FHD TR
+http://vip1080.us:8000/Huseyin/asdfghj/7383
+#EXTINF:0 group-title="TürkiyeKanalları",FX HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/21437
+#EXTINF:0 group-title="TürkiyeKanalları",FOX Crime HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/21436
+#EXTINF:0 group-title="TürkiyeKanalları",FOX Life HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/21438
+#EXTINF:0 group-title="TürkiyeKanalları",360 TV HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/8098
+#EXTINF:0 group-title="TürkiyeKanalları",,Ucan Kus Tv HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/22617
+#EXTINF:0 group-title="TürkiyeKanalları",ATV Avrupa SD TR
+http://vip1080.us:8000/Huseyin/asdfghj/4647
+#EXTINF:0 group-title="TürkiyeKanalları",ShowTURK SD TR
+http://vip1080.us:8000/Huseyin/asdfghj/4648
+#EXTINF:0 group-title="TürkiyeKanalları",SHOW MAX HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/4649
+#EXTINF:0 group-title="TürkiyeKanalları",Euro Star SD TR
+http://vip1080.us:8000/Huseyin/asdfghj/4651
+#EXTINF:0 group-title="TürkiyeKanalları",Euro D HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/4650
+#EXTINF:0 group-title="TürkiyeKanalları",Kanal 7 Avrupa HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/37032
+#EXTINF:0 group-title="TürkiyeKanalları",Bruksel Turk TV HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/20320
+#EXTINF:0 group-title="TürkiyeKanalları",Kanal 3 SD TR
+http://vip1080.us:8000/Huseyin/asdfghj/65
+#EXTINF:0 group-title="TürkiyeKanalları",Kanal 26 SD TR
+http://vip1080.us:8000/Huseyin/asdfghj/739
+#EXTINF:0 group-title="TürkiyeKanalları",Vatan TV SD TR
+http://vip1080.us:8000/Huseyin/asdfghj/1176
+#EXTINF:0 group-title="TürkiyeKanalları",Cem TV SD TR
+http://vip1080.us:8000/Huseyin/asdfghj/369
+#EXTINF:0 group-title="TürkiyeKanalları",Kayseri TV SD TR
+http://vip1080.us:8000/Huseyin/asdfghj/3338
+#EXTINF:0 group-title="TürkiyeKanalları",Rumeli TV SD TR
+http://vip1080.us:8000/Huseyin/asdfghj/1173
+#EXTINF:0 group-title="TürkiyeKanalları",TRT Avaz SD TR
+http://vip1080.us:8000/Huseyin/asdfghj/3327
+#EXTINF:0 group-title="TürkiyeKanalları",Diyanet TV HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/22614
+#EXTINF:0 group-title="TürkiyeKanalları",Kanal Avrupa SD TR
+http://vip1080.us:8000/Huseyin/asdfghj/1172
+#EXTINF:0 group-title="TürkiyeKanalları",Mavi Karadeniz TV SD TR
+http://vip1080.us:8000/Huseyin/asdfghj/1718
+#EXTINF:0 group-title="TürkiyeKanalları",Dost TV SD TR
+http://vip1080.us:8000/Huseyin/asdfghj/28003
+#EXTINF:0 group-title="TürkiyeKanalları",TRT 2 HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/34668
+#EXTINF:0 group-title="TürkiyeKanalları",TAY TV HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/62464
+#EXTINF:0 group-title="TürkiyeKanalları",TV 35 HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/62465
+#EXTINF:0 group-title="TürkiyeKanalları",YENİ KOCAELİ TV HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/62466
+#EXTINF:0 group-title="TürkiyeKanalları",FASHION TV FHD TR
+http://vip1080.us:8000/Huseyin/asdfghj/50802
+#EXTINF:0 group-title="TürkiyeKanalları",FOX CRIME FHD TR
+http://vip1080.us:8000/Huseyin/asdfghj/50806
+#EXTINF:0 group-title="TürkiyeKanalları",FOX LIFE FHD TR
+http://vip1080.us:8000/Huseyin/asdfghj/50807
+#EXTINF:0 group-title="TürkiyeKanalları",FX FHD TR
+http://vip1080.us:8000/Huseyin/asdfghj/50809
+#EXTINF:0 group-title="TürkiyeKanallarıHaber",A PARA FHD TR
+http://vip1080.us:8000/Huseyin/asdfghj/56834
+#EXTINF:0 group-title="TürkiyeKanallarıHaber",BBC WORLD NEWS FHD TR
+http://vip1080.us:8000/Huseyin/asdfghj/50793
+#EXTINF:0 group-title="TürkiyeKanallarıHaber",CNN Turk FHD TR
+http://vip1080.us:8000/Huseyin/asdfghj/8103
+#EXTINF:0 group-title="TürkiyeKanallarıHaber",CNN Turk SD TR
+http://vip1080.us:8000/Huseyin/asdfghj/155
+#EXTINF:0 group-title="TürkiyeKanallarıHaber",NTV HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/8102
+#EXTINF:0 group-title="TürkiyeKanallarıHaber",,Haber Turk FHD TR
+http://vip1080.us:8000/Huseyin/asdfghj/22526
+#EXTINF:0 group-title="TürkiyeKanallarıHaber",Haber Turk HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/152
+#EXTINF:0 group-title="TürkiyeKanallarıHaber",TRT Haber HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/29376
+#EXTINF:0 group-title="TürkiyeKanallarıHaber",TRT Turk HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/372
+#EXTINF:0 group-title="TürkiyeKanallarıHaber",TV 100 FHD TR
+http://vip1080.us:8000/Huseyin/asdfghj/35581
+#EXTINF:0 group-title="TürkiyeKanallarıHaber",TV 100 HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/35580
+#EXTINF:0 group-title="TürkiyeKanallarıHaber",Halk TV HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/63
+#EXTINF:0 group-title="TürkiyeKanallarıHaber",TELE 1 HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/7405
+#EXTINF:0 group-title="TürkiyeKanallarıHaber",ULKE FHD TR
+http://vip1080.us:8000/Huseyin/asdfghj/7215
+#EXTINF:0 group-title="TürkiyeKanallarıHaber",Ulke TV HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/154
+#EXTINF:0 group-title="TürkiyeKanallarıHaber",KRT TV HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/24013
+#EXTINF:0 group-title="TürkiyeKanallarıHaber",Ulusal TV SD TR
+http://vip1080.us:8000/Huseyin/asdfghj/7718
+#EXTINF:0 group-title="TürkiyeKanallarıHaber",Bloomberg HT FHD TR
+http://vip1080.us:8000/Huseyin/asdfghj/8104
+#EXTINF:0 group-title="TürkiyeKanallarıHaber",Bloomberg HT HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/1709
+#EXTINF:0 group-title="TürkiyeKanallarıHaber",Tgrt Haber SD TR
+http://vip1080.us:8000/Huseyin/asdfghj/49
+#EXTINF:0 group-title="TürkiyeKanallarıHaber",Tgrt Eu SD TR
+http://vip1080.us:8000/Huseyin/asdfghj/3335
+#EXTINF:0 group-title="TürkiyeKanallarıHaber",TV5 MONDE FBS HD
+http://vip1080.us:8000/Huseyin/asdfghj/1186
+#EXTINF:0 group-title="TürkiyeKanallarıHaber",AKIT TV HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/29883
+#EXTINF:0 group-title="TürkiyeKanallarıHaber",A News FHD TR
+http://vip1080.us:8000/Huseyin/asdfghj/28005
+#EXTINF:0 group-title="TürkiyeKanallarıHaber",A Haber FHD TR
+http://vip1080.us:8000/Huseyin/asdfghj/8099
+#EXTINF:0 group-title="TürkiyeKanallarıHaber",A Haber HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/17435
+#EXTINF:0 group-title="TürkiyeKanallarıHaber",A haber SD TR
+http://vip1080.us:8000/Huseyin/asdfghj/35831
+#EXTINF:0 group-title="TürkiyeKanallarıHaber",Kanal 24 SD TR
+http://vip1080.us:8000/Huseyin/asdfghj/62
+#EXTINF:0 group-title="TürkiyeKanallarıHaber",BenguTurk TV SD TR
+http://vip1080.us:8000/Huseyin/asdfghj/1708
+#EXTINF:0 group-title="TürkiyeKanallarıHaber",Ekoturk HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/35832
+#EXTINF:0 group-title="TürkiyeKanallarıHaber",Uzay Haber SD TR
+http://vip1080.us:8000/Huseyin/asdfghj/37135
+#EXTINF:0 group-title="TürkiyeKanallarıSpor",beIN SPORTS 1 FHD TR (HVEC 265 50 FPS)
+http://vip1080.us:8000/Huseyin/asdfghj/32293
+#EXTINF:0 group-title="TürkiyeKanallarıSpor",beIN SPORTS 1 FHD TR
+http://vip1080.us:8000/Huseyin/asdfghj/7706
+#EXTINF:0 group-title="TürkiyeKanallarıSpor",beIN SPORTS 1 HD TR (OZEL)
+http://vip1080.us:8000/Huseyin/asdfghj/62535
+#EXTINF:0 group-title="TürkiyeKanallarıSpor",BeIN SPORTS 1 HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/446
+#EXTINF:0 group-title="TürkiyeKanallarıSpor",beIN SPORTS 1 SD TR (TTNET-OZEL)
+http://vip1080.us:8000/Huseyin/asdfghj/37847
+#EXTINF:0 group-title="TürkiyeKanallarıSpor",beIN SPORTS 1 SD TR. (VODAFONE-TURKCELL-TURKIYE)
+http://vip1080.us:8000/Huseyin/asdfghj/403
+#EXTINF:0 group-title="TürkiyeKanallarıSpor",beIN SPORTS 2 FHD TR
+http://vip1080.us:8000/Huseyin/asdfghj/7707
+#EXTINF:0 group-title="TürkiyeKanallarıSpor",beIN SPORTS 2 HD TR (OZEL)
+http://vip1080.us:8000/Huseyin/asdfghj/62536
+#EXTINF:0 group-title="TürkiyeKanallarıSpor",BeIN SPORTS 2 HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/112
+#EXTINF:0 group-title="TürkiyeKanallarıSpor",beIN SPORTS 2 SD TR
+http://vip1080.us:8000/Huseyin/asdfghj/23688
+#EXTINF:0 group-title="TürkiyeKanallarıSpor",beIN SPORTS 2 SD TR.
+http://vip1080.us:8000/Huseyin/asdfghj/404
+#EXTINF:0 group-title="TürkiyeKanallarıSpor",beIN SPORTS 3 FHD TR
+http://vip1080.us:8000/Huseyin/asdfghj/7708
+#EXTINF:0 group-title="TürkiyeKanallarıSpor",beIN SPORTS 3 HD TR (OZEL)
+http://vip1080.us:8000/Huseyin/asdfghj/62537
+#EXTINF:0 group-title="TürkiyeKanallarıSpor",BeIN SPORTS 3 HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/205
+#EXTINF:0 group-title="TürkiyeKanallarıSpor",beIN SPORTS 3 SD TR
+http://vip1080.us:8000/Huseyin/asdfghj/23689
+#EXTINF:0 group-title="TürkiyeKanallarıSpor",beIN SPORTS 3 SD TR.
+http://vip1080.us:8000/Huseyin/asdfghj/405
+#EXTINF:0 group-title="TürkiyeKanallarıSpor",beIN SPORTS 4 FHD TR
+http://vip1080.us:8000/Huseyin/asdfghj/8046
+#EXTINF:0 group-title="TürkiyeKanallarıSpor",beIN SPORTS 4 HD TR (OZEL)
+http://vip1080.us:8000/Huseyin/asdfghj/62538
+#EXTINF:0 group-title="TürkiyeKanallarıSpor",BeIN SPORTS 4 HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/206
+#EXTINF:0 group-title="TürkiyeKanallarıSpor",beIN SPORTS 4 SD TR
+http://vip1080.us:8000/Huseyin/asdfghj/23690
+#EXTINF:0 group-title="TürkiyeKanallarıSpor",beIN SPORTS 4 SD TR.
+http://vip1080.us:8000/Huseyin/asdfghj/406
+#EXTINF:0 group-title="TürkiyeKanallarıSpor",beIN SPORTS MAX 1 HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/23691
+#EXTINF:0 group-title="TürkiyeKanallarıSpor",beIN SPORTS MAX 1 FHD TR
+http://vip1080.us:8000/Huseyin/asdfghj/1730
+#EXTINF:0 group-title="TürkiyeKanallarıSpor",beIN SPORTS MAX 2 HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/23692
+#EXTINF:0 group-title="TürkiyeKanallarıSpor",beIN SPORTS MAX 2 FHD TR
+http://vip1080.us:8000/Huseyin/asdfghj/7514
+#EXTINF:0 group-title="TürkiyeKanallarıSpor",beIN SPORTS HABER FHD TR
+http://vip1080.us:8000/Huseyin/asdfghj/26886
+#EXTINF:0 group-title="TürkiyeKanallarıSpor",TiviBu Spor 1 HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/22
+#EXTINF:0 group-title="TürkiyeKanallarıSpor",Tivibu Spor 1 FHD TR
+http://vip1080.us:8000/Huseyin/asdfghj/1734
+#EXTINF:0 group-title="TürkiyeKanallarıSpor",TiviBu Spor 2 HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/367
+#EXTINF:0 group-title="TürkiyeKanallarıSpor",Tivibu Spor 2 SD
+http://vip1080.us:8000/Huseyin/asdfghj/1733
+#EXTINF:0 group-title="TürkiyeKanallarıSpor",TiviBu Spor 3 HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/1273
+#EXTINF:0 group-title="TürkiyeKanallarıSpor",Tivibu Spor 3 SD
+http://vip1080.us:8000/Huseyin/asdfghj/1735
+#EXTINF:0 group-title="TürkiyeKanallarıSpor",SMART SPOR  1 HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/7486
+#EXTINF:0 group-title="TürkiyeKanallarıSpor",Eurosport 1 HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/1245
+#EXTINF:0 group-title="TürkiyeKanallarıSpor",Eurosport 2 HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/1246
+#EXTINF:0 group-title="TürkiyeKanallarıSpor",A SPOR FHD TR
+http://vip1080.us:8000/Huseyin/asdfghj/8100
+#EXTINF:0 group-title="TürkiyeKanallarıSpor",A SPOR HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/17433
+#EXTINF:0 group-title="TürkiyeKanallarıSpor",A SPOR SD TR
+http://vip1080.us:8000/Huseyin/asdfghj/196
+#EXTINF:0 group-title="TürkiyeKanallarıSpor",TRT SPOR FHD TR
+http://vip1080.us:8000/Huseyin/asdfghj/8101
+#EXTINF:0 group-title="TürkiyeKanallarıSpor",TRT SPOR HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/46
+#EXTINF:0 group-title="TürkiyeKanallarıSpor",S SPORT HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/385
+#EXTINF:0 group-title="TürkiyeKanallarıSpor",S SPORT FHD TR
+http://vip1080.us:8000/Huseyin/asdfghj/50826
+#EXTINF:0 group-title="TürkiyeKanallarıSpor",S Sports 2 HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/34663
+#EXTINF:0 group-title="TürkiyeKanallarıSpor",FB TV HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/156
+#EXTINF:0 group-title="TürkiyeKanallarıSpor",GS TV HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/232
+#EXTINF:0 group-title="TürkiyeKanallarıSpor",SPORTS TV HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/60
+#EXTINF:0 group-title="TürkiyeKanallarıSpor",NBA TV FHD TR
+http://vip1080.us:8000/Huseyin/asdfghj/50824
+#EXTINF:0 group-title="TürkiyeKanallarıSpor",NBA TV HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/4535
+#EXTINF:0 group-title="TürkiyeKanallarıSpor",SPOR SMART FHD TR
+http://vip1080.us:8000/Huseyin/asdfghj/50827
+#EXTINF:0 group-title="TürkiyeKanallarıSpor",FOX SPORTS FHD TR
+http://vip1080.us:8000/Huseyin/asdfghj/50808
+#EXTINF:0 group-title="TürkiyeKanallarıSpor",FIGHTBOX FHD TR
+http://vip1080.us:8000/Huseyin/asdfghj/50804
+#EXTINF:0 group-title="TürkiyeKanallarıSpor",EUROSPORT 2 FHD TR
+http://vip1080.us:8000/Huseyin/asdfghj/50801
+#EXTINF:0 group-title="TürkiyeKanallarıSpor",EUROSPORT 1 FHD TR
+http://vip1080.us:8000/Huseyin/asdfghj/50800
+#EXTINF:0 group-title="TürkiyeKanallarıLifeStyle",TLC HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/4644
+#EXTINF:0 group-title="TürkiyeKanallarıLifeStyle",DMAX FHD TR
+http://vip1080.us:8000/Huseyin/asdfghj/56671
+#EXTINF:0 group-title="TürkiyeKanallarıLifeStyle",Dmax HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/22751
+#EXTINF:0 group-title="TürkiyeKanallarıLifeStyle",Dmax SD TR
+http://vip1080.us:8000/Huseyin/asdfghj/165
+#EXTINF:0 group-title="TürkiyeKanallarıLifeStyle",Yaban TV FHD TR
+http://vip1080.us:8000/Huseyin/asdfghj/22638
+#EXTINF:0 group-title="TürkiyeKanallarıLifeStyle",HISTORY HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/44
+#EXTINF:0 group-title="TürkiyeKanallarıLifeStyle",beIN IZ HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/243
+#EXTINF:0 group-title="TürkiyeKanallarıLifeStyle",beIN Gurme HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/1169
+#EXTINF:0 group-title="TürkiyeKanallarıLifeStyle",TRT Belgesel HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/34677
+#EXTINF:0 group-title="TürkiyeKanallarıLifeStyle",Tgrt Belgesel SD TR
+http://vip1080.us:8000/Huseyin/asdfghj/30584
+#EXTINF:0 group-title="TürkiyeKanallarıLifeStyle",24 Kitchen HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/31058
+#EXTINF:0 group-title="TürkiyeKanallarıLifeStyle",Animaux HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/31057
+#EXTINF:0 group-title="TürkiyeKanallarıLifeStyle",BBC Eath HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/31054
+#EXTINF:0 group-title="TürkiyeKanallarıLifeStyle",Chasse et Peche HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/31056
+#EXTINF:0 group-title="TürkiyeKanallarıLifeStyle",Da Vinci HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/31053
+#EXTINF:0 group-title="TürkiyeKanallarıLifeStyle",Science et Vie HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/31055
+#EXTINF:0 group-title="TürkiyeKanallarıLifeStyle",Animal Planet HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/1160
+#EXTINF:0 group-title="TürkiyeKanallarıLifeStyle",Nat Geographic HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/359
+#EXTINF:0 group-title="TürkiyeKanallarıLifeStyle",NAT GEO FHD TR
+http://vip1080.us:8000/Huseyin/asdfghj/50821
+#EXTINF:0 group-title="TürkiyeKanallarıLifeStyle",Nat Geo Wild HD TR.
+http://vip1080.us:8000/Huseyin/asdfghj/180
+#EXTINF:0 group-title="TürkiyeKanallarıLifeStyle",NAT GEO WILD FHD TR
+http://vip1080.us:8000/Huseyin/asdfghj/50823
+#EXTINF:0 group-title="TürkiyeKanallarıLifeStyle",NAT GEO PEOPLE HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/76
+#EXTINF:0 group-title="TürkiyeKanallarıLifeStyle",NAT GEO PEOPLE FHD TR
+http://vip1080.us:8000/Huseyin/asdfghj/50822
+#EXTINF:0 group-title="TürkiyeKanallarıLifeStyle",Discovery ID HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/8837
+#EXTINF:0 group-title="TürkiyeKanallarıLifeStyle",DTX HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/35750
+#EXTINF:0 group-title="TürkiyeKanallarıLifeStyle",Discovery HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/56
+#EXTINF:0 group-title="TürkiyeKanallarıLifeStyle",DISCOVERY FHD TR
+http://vip1080.us:8000/Huseyin/asdfghj/50796
+#EXTINF:0 group-title="TürkiyeKanallarıLifeStyle",DISCOVERY ID FHD TR
+http://vip1080.us:8000/Huseyin/asdfghj/50810
+#EXTINF:0 group-title="TürkiyeKanallarıLifeStyle",Discovery Science HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/4840
+#EXTINF:0 group-title="TürkiyeKanallarıLifeStyle",Discovery Showcase HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/1159
+#EXTINF:0 group-title="TürkiyeKanallarıLifeStyle",AutoMoto La Chaine HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/35751
+#EXTINF:0 group-title="TürkiyeKanallarıLifeStyle",TRACE URBAN FHD TR
+http://vip1080.us:8000/Huseyin/asdfghj/50828
+#EXTINF:0 group-title="TürkiyeKanallarıLifeStyle",VIASAT HISTORY FHD TR
+http://vip1080.us:8000/Huseyin/asdfghj/50829
+#EXTINF:0 group-title="TürkiyeKanallarıLifeStyle",OUTDOOR FHD TR
+http://vip1080.us:8000/Huseyin/asdfghj/50825
+#EXTINF:0 group-title="TürkiyeKanallarıLifeStyle",KITCHEN HD FHD TR
+http://vip1080.us:8000/Huseyin/asdfghj/50811
+#EXTINF:0 group-title="TürkiyeKanallarıLifeStyle",FILMBOX FAST & FUN FHD TR
+http://vip1080.us:8000/Huseyin/asdfghj/50803
+#EXTINF:0 group-title="TürkiyeKanallarıLifeStyle",DOCUBOX FHD TR
+http://vip1080.us:8000/Huseyin/asdfghj/50799
+#EXTINF:0 group-title="TürkiyeKanallarıLifeStyle",BBC EARTH FHD TR
+http://vip1080.us:8000/Huseyin/asdfghj/50792
+#EXTINF:0 group-title="TürkiyeKanallarıLifeStyle",,ANIMAL PLANET FHD TR
+http://vip1080.us:8000/Huseyin/asdfghj/50790
+#EXTINF:-1,***** TR:SINEMA *****
+http://vip1080.us:8000/Huseyin/asdfghj/3302
+#EXTINF:-1,MOVIESMART TURK FHD TR
+http://vip1080.us:8000/Huseyin/asdfghj/50820
+#EXTINF:-1,MOVIESMART PREMIUM 2 FHD TR
+http://vip1080.us:8000/Huseyin/asdfghj/50819
+#EXTINF:-1,MOVIESMART PREMIUM FHD TR
+http://vip1080.us:8000/Huseyin/asdfghj/50818
+#EXTINF:-1,MOVIESMART PLATIN FHD TR
+http://vip1080.us:8000/Huseyin/asdfghj/50817
+#EXTINF:-1,MOVIESMART GOLD FHD TR
+http://vip1080.us:8000/Huseyin/asdfghj/50816
+#EXTINF:-1,MOVIESMART FEST FHD TR
+http://vip1080.us:8000/Huseyin/asdfghj/50815
+#EXTINF:-1,MOVIESMART FAMILY FHD TR
+http://vip1080.us:8000/Huseyin/asdfghj/50814
+#EXTINF:-1,MOVIESMART CLASSIC FHD TR
+http://vip1080.us:8000/Huseyin/asdfghj/50813
+#EXTINF:-1,MOVIESMART ACTION FHD TR
+http://vip1080.us:8000/Huseyin/asdfghj/50812
+#EXTINF:-1,FILMBOX FHD TR
+http://vip1080.us:8000/Huseyin/asdfghj/50805
+#EXTINF:-1,DİZİSMART MAX FHD TR
+http://vip1080.us:8000/Huseyin/asdfghj/50798
+#EXTINF:-1,DIZI PREMIUM FHD TR
+http://vip1080.us:8000/Huseyin/asdfghj/50797
+#EXTINF:-1,Beyaz Perde (Yerli Sinama) HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/62401
+#EXTINF:-1,Beyaz Perde (Yerli Komedi) HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/62402
+#EXTINF:-1,Beyaz Perde (Yerli Dram) HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/62403
+#EXTINF:-1,Beyaz Perde (Komedi) HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/62404
+#EXTINF:-1,Yesilcam Karisik HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/62405
+#EXTINF:-1,Yesilcam (Cuneyt Arkin) HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/62406
+#EXTINF:-1,Yesilcam (Ayhan Isik) HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/62407
+#EXTINF:-1,Yesilcam (Erol Tas) HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/62408
+#EXTINF:-1,Yesilcam (Fatma Girik) HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/62409
+#EXTINF:-1,Yesilcam (Ferdi Tayfur) HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/62410
+#EXTINF:-1,Yesilcam (Filiz Akin) HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/62411
+#EXTINF:-1,Yesilcam (Hulya Kocyigit) HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/62412
+#EXTINF:-1,Yesilcam (Ilyas Salman) HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/62413
+#EXTINF:-1,Yesilcam (Kadir inanir) HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/62414
+#EXTINF:-1,Yesilcam (Kazim Kartal) HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/62415
+#EXTINF:-1,Yesilcam (Kemal Sunal) HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/62416
+#EXTINF:-1,Yesilcam (Metin & Zeki) HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/62417
+#EXTINF:-1,Yesilcam (Munir ozkul) HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/62418
+#EXTINF:-1,Yesilcam (Orhan Gencebay) HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/62419
+#EXTINF:-1,Yesilcam (Sener Sen) HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/62420
+#EXTINF:-1,Yesilcam (Tarik Akan) HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/62421
+#EXTINF:-1,Yesilcam (Turkan Soray) HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/62422
+#EXTINF:-1,Yesilcam (Yilmaz Guney) HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/62423
+#EXTINF:-1,beIN Movies Turk HD
+http://vip1080.us:8000/Huseyin/asdfghj/8251
+#EXTINF:-1,beIN Movies Stars HD
+http://vip1080.us:8000/Huseyin/asdfghj/7597
+#EXTINF:-1,beIN Movies Family HD
+http://vip1080.us:8000/Huseyin/asdfghj/7594
+#EXTINF:-1,beIN Movies Action HD
+http://vip1080.us:8000/Huseyin/asdfghj/7592
+#EXTINF:-1,Bein Movies Action 2 HD
+http://vip1080.us:8000/Huseyin/asdfghj/23214
+#EXTINF:-1,Vizioon Aile HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/7596
+#EXTINF:-1,Bein Movies Premiere 2 HD
+http://vip1080.us:8000/Huseyin/asdfghj/23213
+#EXTINF:-1,Vizioon Festival HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/7593
+#EXTINF:-1,Bein Series Vice HD
+http://vip1080.us:8000/Huseyin/asdfghj/23212
+#EXTINF:-1,beIN Series Drama HD
+http://vip1080.us:8000/Huseyin/asdfghj/7599
+#EXTINF:-1,beIN Series Sci-Fi HD
+http://vip1080.us:8000/Huseyin/asdfghj/7600
+#EXTINF:-1,TR | Dizismart Premium HD
+http://vip1080.us:8000/Huseyin/asdfghj/15009
+#EXTINF:-1,Moviesmart Action HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/15008
+#EXTINF:-1,Moviesmart Family HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/15007
+#EXTINF:-1,Moviesmart Gold HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/15012
+#EXTINF:-1,Moviesmart Platin 1 HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/15011
+#EXTINF:-1,Moviesmart Premium 1 HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/15010
+#EXTINF:-1,Moviesmart Turk HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/15006
+#EXTINF:-1,Moviesmart Classic HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/28013
+#EXTINF:-1,TR | Moviesmart Fest HD
+http://vip1080.us:8000/Huseyin/asdfghj/28012
+#EXTINF:-1,Moviesmart Platin 2 HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/28011
+#EXTINF:-1,Moviesmart Premium 2 HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/28010
+#EXTINF:-1,beIN Movies Animation HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/9281
+#EXTINF:-1,Box Office HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/9279
+#EXTINF:-1,beIN Series Vice HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/9277
+#EXTINF:-1,beIN Movies VIP BOX HD
+http://vip1080.us:8000/Huseyin/asdfghj/9275
+#EXTINF:-1,beIN Movies Action 2 HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/9267
+#EXTINF:-1,Vizioon Premiere HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/9274
+#EXTINF:-1,Tivibu Turk HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/9282
+#EXTINF:-1,Vizioon Premiere 2 HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/9276
+#EXTINF:-1,beIN Movies Premier HD 1080p
+http://vip1080.us:8000/Huseyin/asdfghj/9273
+#EXTINF:-1,beIN Movies Premier 2 HD 1080p
+http://vip1080.us:8000/Huseyin/asdfghj/9272
+#EXTINF:-1,beIN Movies Animation HD 1080p
+http://vip1080.us:8000/Huseyin/asdfghj/9271
+#EXTINF:-1,beIN Movies Action HD 1080p
+http://vip1080.us:8000/Huseyin/asdfghj/9270
+#EXTINF:-1,beIN Movies Turk HD 1080p
+http://vip1080.us:8000/Huseyin/asdfghj/9269
+#EXTINF:-1,beIN Movies Yesilcam HD 1080p
+http://vip1080.us:8000/Huseyin/asdfghj/9268
+#EXTINF:-1,Sinema Aksiyon HD
+http://vip1080.us:8000/Huseyin/asdfghj/23220
+#EXTINF:-1,Sinema Yerli HD
+http://vip1080.us:8000/Huseyin/asdfghj/23219
+#EXTINF:-1,Sinema Aile HD
+http://vip1080.us:8000/Huseyin/asdfghj/23215
+#EXTINF:-1,Sinema Komedi HD
+http://vip1080.us:8000/Huseyin/asdfghj/23216
+#EXTINF:-1,Sinema 1001 HD
+http://vip1080.us:8000/Huseyin/asdfghj/23217
+#EXTINF:-1,Sinema HD
+http://vip1080.us:8000/Huseyin/asdfghj/23218
+#EXTINF:-1,beIN OFFICE 1 HD 1080p
+http://vip1080.us:8000/Huseyin/asdfghj/20103
+#EXTINF:-1,beIN OFFICE 2 HD 1080p
+http://vip1080.us:8000/Huseyin/asdfghj/20104
+#EXTINF:-1,beIN OFFICE 3 HD 1080p
+http://vip1080.us:8000/Huseyin/asdfghj/20105
+#EXTINF:-1,Sinema TV Yerli HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/9264
+#EXTINF:-1,TR:PLANET TURK
+http://vip1080.us:8000/Huseyin/asdfghj/3343
+#EXTINF:-1,KEMAL SUNAL HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/7448
+#EXTINF:-1,***** TR:COCUK *****
+http://vip1080.us:8000/Huseyin/asdfghj/3303
+#EXTINF:-1,TRT Cocuk HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/34676
+#EXTINF:-1,Baby TV HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/1168
+#EXTINF:-1,BABY TV FHD TR
+http://vip1080.us:8000/Huseyin/asdfghj/50791
+#EXTINF:-1,Nick JR HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/4537
+#EXTINF:-1,Minika GO SD TR
+http://vip1080.us:8000/Huseyin/asdfghj/1165
+#EXTINF:-1,TR:TRT OKUL HD
+http://vip1080.us:8000/Huseyin/asdfghj/3329
+#EXTINF:-1,BOOMERANG FHD TR
+http://vip1080.us:8000/Huseyin/asdfghj/50794
+#EXTINF:-1,Nickelodeon HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/7185
+#EXTINF:-1,Minika Cocuk SD TR
+http://vip1080.us:8000/Huseyin/asdfghj/7194
+#EXTINF:-1,COCUK SMART FHD TR
+http://vip1080.us:8000/Huseyin/asdfghj/50795
+#EXTINF:-1,TR:DISNEY JUNIOR
+http://vip1080.us:8000/Huseyin/asdfghj/7184
+#EXTINF:-1,Disney Channel HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/45
+#EXTINF:-1,Vizioon Animasyon HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/1424
+#EXTINF:-1,Cartoon Network HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/373
+#EXTINF:-1,*****TR:DINI:KANALAR*****
+http://vip1080.us:8000/Huseyin/asdfghj/4753
+#EXTINF:-1,KON TV
+http://vip1080.us:8000/Huseyin/asdfghj/1171
+#EXTINF:-1,LALEGUL TV HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/1164
+#EXTINF:-1,SEMERKAND TV HD*
+http://vip1080.us:8000/Huseyin/asdfghj/22612
+#EXTINF:-1,*****TR:MUZIK*****
+http://vip1080.us:8000/Huseyin/asdfghj/7210
+#EXTINF:-1,POWER TV HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/22647
+#EXTINF:-1,Power Turk HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/1720
+#EXTINF:-1,Dream Turk HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/48
+#EXTINF:-1,Dream TV HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/47
+#EXTINF:-1,KRAL TV HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/536
+#EXTINF:-1,KRAL POP HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/1712
+#EXTINF:-1,TRT MUZIK FHD TR
+http://vip1080.us:8000/Huseyin/asdfghj/34674
+#EXTINF:-1,TRT MUZIK HD
+http://vip1080.us:8000/Huseyin/asdfghj/61
+#EXTINF:-1,Radyo Seymen FM
+http://vip1080.us:8000/Huseyin/asdfghj/62146
+#EXTINF:-1,90'Lar Radyo
+http://vip1080.us:8000/Huseyin/asdfghj/62147
+#EXTINF:-1,AFYON 03 FM
+http://vip1080.us:8000/Huseyin/asdfghj/62148
+#EXTINF:-1,Afyon Halk Muzigi 03 FM
+http://vip1080.us:8000/Huseyin/asdfghj/62149
+#EXTINF:-1,AKSARAY FM
+http://vip1080.us:8000/Huseyin/asdfghj/62150
+#EXTINF:-1,DOGAN AKSARAY FM
+http://vip1080.us:8000/Huseyin/asdfghj/62151
+#EXTINF:-1,Ankaralilar FM
+http://vip1080.us:8000/Huseyin/asdfghj/62152
+#EXTINF:-1,Antalya radyo FM
+http://vip1080.us:8000/Huseyin/asdfghj/62153
+#EXTINF:-1,ARABESK FM
+http://vip1080.us:8000/Huseyin/asdfghj/62154
+#EXTINF:-1,Arabesk 2 FM
+http://vip1080.us:8000/Huseyin/asdfghj/62155
+#EXTINF:-1,Arabesk 3 FM
+http://vip1080.us:8000/Huseyin/asdfghj/62156
+#EXTINF:-1,Arabesk 4 FM
+http://vip1080.us:8000/Huseyin/asdfghj/62157
+#EXTINF:-1,Arabesk 5 FM
+http://vip1080.us:8000/Huseyin/asdfghj/62158
+#EXTINF:-1,BABA RADYO FM
+http://vip1080.us:8000/Huseyin/asdfghj/62159
+#EXTINF:-1,BILECIK FM
+http://vip1080.us:8000/Huseyin/asdfghj/62160
+#EXTINF:-1,BINGOL FM
+http://vip1080.us:8000/Huseyin/asdfghj/62161
+#EXTINF:-1,BODRUM FM
+http://vip1080.us:8000/Huseyin/asdfghj/62162
+#EXTINF:-1,BURSA RADYO FM
+http://vip1080.us:8000/Huseyin/asdfghj/62163
+#EXTINF:-1,KAYSERI SAFAK RADYO FM
+http://vip1080.us:8000/Huseyin/asdfghj/62164
+#EXTINF:-1,KAYSERI HIT FM
+http://vip1080.us:8000/Huseyin/asdfghj/62165
+#EXTINF:-1,A HABER FM
+http://vip1080.us:8000/Huseyin/asdfghj/7914
+#EXTINF:-1,KRAL FM
+http://vip1080.us:8000/Huseyin/asdfghj/7916
+#EXTINF:-1,Alem FM
+http://vip1080.us:8000/Huseyin/asdfghj/7917
+#EXTINF:-1,TRT TURKU FM
+http://vip1080.us:8000/Huseyin/asdfghj/7922
+#EXTINF:-1,ASK FM
+http://vip1080.us:8000/Huseyin/asdfghj/7924
+#EXTINF:-1,Ankara Fm
+http://vip1080.us:8000/Huseyin/asdfghj/7925
+#EXTINF:-1,RADIO ARABESK FM
+http://vip1080.us:8000/Huseyin/asdfghj/7926
+#EXTINF:-1,TURK SANAT MUZIGI FM
+http://vip1080.us:8000/Huseyin/asdfghj/7927
+#EXTINF:-1,HABER GLOBAL HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/62541
+#EXTINF:-1,PARK TV HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/62542
+#EXTINF:-1,beIN SPORTS 1 FHD (OZEL)
+http://vip1080.us:8000/Huseyin/asdfghj/71254
+#EXTINF:-1,Niloya TV HD TR
+http://vip1080.us:8000/Huseyin/asdfghj/72781
